@@ -1,0 +1,3 @@
+./passthrough/.env
+.terraform.lock.hcl
+./.terraform
